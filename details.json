@@ -1,0 +1,12 @@
+{
+	"name": "WordCount",
+	"version": "1.0.0",
+	"description": "Display a message when a mission post is over a certain word count.",
+	"url": "https://github.com/mooeypoo/Nova-WordCount",
+	"note": "Please make sure to set 'logcountLimit' and 'logcountLimitMessage' user settings values.",
+	"author": {
+		"name": "Moriel Schottlender",
+		"email": "mooeypoo@gmail.com",
+		"url": "http://moriel.smarterthanthat.com/"
+	}
+}
