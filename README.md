@@ -2,10 +2,10 @@
 Display a word and character count next to mission posts, and warn the writers if the post is over a certain set limit.
 
 # Installation
-1. Download the extension files.
+1. Download the extension files from the [latest release](https://github.com/mooeypoo/Nova-WordCount/releases)
 2. Place the extension files in `nova/application/extensions/WordCount`
-3. If you're using ExtensionManager, go to your Control Panel, click on "Extension Management" and enable the WordCount extension.
-4. If you're not using ExtensionManager, paste the following code into `nova/config/extensions.php`:
+3. If you're using [ExtensionManager](https://github.com/mooeypoo/Nova-ExtensionManager), go to your Control Panel, click on "Extension Management" and enable the WordCount extension.
+4. If you're not using [ExtensionManager](https://github.com/mooeypoo/Nova-ExtensionManager), paste the following code into `nova/config/extensions.php`:
 ```
 $config['extensions']['enabled'][] = 'WordCount';
 ```
